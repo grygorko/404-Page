@@ -10,7 +10,12 @@ font-weight: normal;
 font-variant: small-caps;
 color: #0000ff;
 }
-
+p {
+font-family: 'monospace';
+font-weight: normal;
+font-variant: small-caps;
+color: ##0a1933;
+}
 .button {
   padding: 10px 15px;
   font-size: 12px;
@@ -18,7 +23,7 @@ color: #0000ff;
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #071733;
+  background-color: #0a1933;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
